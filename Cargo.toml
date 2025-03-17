@@ -1,0 +1,13 @@
+[package]
+name = "bench-interval-trees"
+version = "0.1.0"
+edition = "2024"
+
+[lints.clippy]
+complexity = "warn"
+perf = "warn"
+style = "warn"
+pedantic = "warn"
+
+[dev-dependencies]
+criterion = { version = "0.5.1", features = ["html_reports"] }
