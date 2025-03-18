@@ -77,6 +77,7 @@ or finding overlapping intervals.
 | Project version | `0.1.0` |
 | `rustc` version | `1.85.0` |
 | `criterion` version | `0.5.1` |
+| `rand` version | `0.9.0` |
 
 ### Results
 
